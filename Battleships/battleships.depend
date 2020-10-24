@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1598696215 source:c:\users\artkor1\desktop\battleships\main.cpp
+	<iostream>
+	"Game.h"
+
+1600343043 c:\users\artkor1\desktop\battleships\game.h
+	<iostream>
+
+1600343024 source:c:\users\artkor1\desktop\battleships\game.cpp
+	"Game.h"
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<algorithm>
+	<conio.h>
+	<Windows.h>
+	<string>
+
